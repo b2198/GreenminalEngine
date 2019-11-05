@@ -1,0 +1,102 @@
+INFO:root:Starting tests with TerminalScreen.
+DEBUG:root:[datetime = 2019-10-23 17:26:06.593302][time = 0.108972493] Starting time
+DEBUG:root:[time = 0.110407030] starting operations took 0.001434537 seconds
+INFO:root:Starting colorless operations.
+DEBUG:root:[time = 0.155846391] initial print took 0.045439361 seconds
+INFO:root:Starting full loop check with 600 iterations.
+DEBUG:root:[time = 1.699100509] full loop took 1.543064744 seconds (2.571775 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large fill loop test with 600 iterations.
+DEBUG:root:[time = 2.220525034] large fill loop took 0.521163971 seconds (0.868607 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large stroke loop test with 600 iterations.
+DEBUG:root:[time = 2.311800381] large stroke loop took 0.090988969 seconds (0.151648 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small fill loop test with 600 iterations.
+DEBUG:root:[time = 2.440781238] small fill loop took 0.128756390 seconds (0.214594 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small stroke loop test with 600 iterations.
+DEBUG:root:[time = 2.483762386] small stroke loop took 0.042696757 seconds (0.071161 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting empty print loop test with 600 iterations.
+DEBUG:root:[time = 2.684534646] print loop took 0.200529584 seconds (0.334216 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Finished colorless operations.
+DEBUG:root:[time = 2.684808443] colorless operations took 2.574401413 seconds
+INFO:root:Starting colored operations.
+DEBUG:root:[time = 2.717015501] initial print took 0.032207058 seconds
+INFO:root:Starting full loop check with 600 iterations.
+DEBUG:root:[time = 4.071060726] full loop took 1.353858501 seconds (2.256431 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large fill loop test with 600 iterations.
+DEBUG:root:[time = 4.597876435] large fill loop took 0.526603161 seconds (0.877672 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large stroke loop test with 600 iterations.
+DEBUG:root:[time = 4.687791074] large stroke loop took 0.089681895 seconds (0.149470 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small fill loop test with 600 iterations.
+DEBUG:root:[time = 4.820339236] small fill loop took 0.132324357 seconds (0.220541 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small stroke loop test with 600 iterations.
+DEBUG:root:[time = 4.864026893] small stroke loop took 0.043451933 seconds (0.072420 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting empty print loop test with 600 iterations.
+DEBUG:root:[time = 5.065301721] print loop took 0.201032152 seconds (0.335054 ms on average per iteration)
+INFO:root:Done.
+DEBUG:root:[time = 5.065550356] colored operations took 2.380741913 seconds
+INFO:root:Finished colored operations
+INFO:root:Finished execution. Total time: 4.956725521 seconds
+DEBUG:root:[time = 5.065698014]
+INFO:root:Success.
+
+INFO:root:Starting tests with TerminalScreen.
+DEBUG:root:[datetime = 2019-10-23 17:27:17.285448][time = 0.087917610] Starting time
+DEBUG:root:[time = 0.089196212] starting operations took 0.001278602 seconds
+INFO:root:Starting colorless operations.
+DEBUG:root:[time = 0.127346020] initial print took 0.038149808 seconds
+INFO:root:Starting full loop check with 600 iterations.
+DEBUG:root:[time = 1.415522728] full loop took 1.288001570 seconds (2.146669 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large fill loop test with 600 iterations.
+DEBUG:root:[time = 1.929842108] large fill loop took 0.514108818 seconds (0.856848 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large stroke loop test with 600 iterations.
+DEBUG:root:[time = 2.018214612] large stroke loop took 0.088135787 seconds (0.146893 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small fill loop test with 600 iterations.
+DEBUG:root:[time = 2.148014210] small fill loop took 0.129572482 seconds (0.215954 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small stroke loop test with 600 iterations.
+DEBUG:root:[time = 2.191022507] small stroke loop took 0.042718939 seconds (0.071198 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting empty print loop test with 600 iterations.
+DEBUG:root:[time = 2.408111672] print loop took 0.216883569 seconds (0.361473 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Finished colorless operations.
+DEBUG:root:[time = 2.408387455] colorless operations took 2.319191243 seconds
+INFO:root:Starting colored operations.
+DEBUG:root:[time = 2.446948124] initial print took 0.038560669 seconds
+INFO:root:Starting full loop check with 600 iterations.
+DEBUG:root:[time = 3.773090564] full loop took 1.325957039 seconds (2.209928 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large fill loop test with 600 iterations.
+DEBUG:root:[time = 4.288904405] large fill loop took 0.515599306 seconds (0.859332 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting large stroke loop test with 600 iterations.
+DEBUG:root:[time = 4.378613779] large stroke loop took 0.089472658 seconds (0.149121 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small fill loop test with 600 iterations.
+DEBUG:root:[time = 4.506234259] small fill loop took 0.127314238 seconds (0.212190 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting small stroke loop test with 600 iterations.
+DEBUG:root:[time = 4.549073046] small stroke loop took 0.042565652 seconds (0.070943 ms on average per iteration)
+INFO:root:Done.
+INFO:root:Starting empty print loop test with 600 iterations.
+DEBUG:root:[time = 4.764003619] print loop took 0.214698822 seconds (0.357831 ms on average per iteration)
+INFO:root:Done.
+DEBUG:root:[time = 4.764217161] colored operations took 2.355829706 seconds
+INFO:root:Finished colored operations
+INFO:root:Finished execution. Total time: 4.676422709 seconds
+DEBUG:root:[time = 4.764340319]
+INFO:root:Success.
+
