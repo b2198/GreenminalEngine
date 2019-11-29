@@ -1,7 +1,7 @@
-from GreenminalEngine.TerminalScreen import TerminalScreen
-from GreenminalEngine.GameLoopController import GameLoopController
-from GreenminalEngine.GameManager import GameManager
-from GreenminalEngine.InputManager import InputManager
+from TerminalScreen import TerminalScreen
+from GameLoopController import GameLoopController
+from GameManager import GameManager
+from InputManager import InputManager
 from time import perf_counter, sleep
 from pynput.keyboard import Key
 import math
@@ -56,11 +56,11 @@ class Game:
         print("\033[1A\n",end="")#just to flush anything that hasn't been flushed yet
 
     def enableOnWindowsConsole(self):
-        from GreenminalEngine.WindowsFix import enable_vt_mode
+        from WindowsFix import enable_vt_mode
         self.restoreConsole = enable_vt_mode()
         
     def restoreWindowsConsole(self):
-        from GreenminalEngine.WindowsFix import set_conout_mode
+        from WindowsFix import set_conout_mode
         set_conout_mode(self.restoreConsole)
             
     def run(self):

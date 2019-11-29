@@ -1,8 +1,0 @@
-name = "GreenminalEngine"
-import GreenminalEngine.Game
-import GreenminalEngine.GameLoopController
-import GreenminalEngine.GameManager
-import GreenminalEngine.InputManager
-import GreenminalEngine.Manage
-import GreenminalEngine.TerminalScreen
-import GreenminalEngine.WindowsFix 

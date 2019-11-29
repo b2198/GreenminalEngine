@@ -1,6 +1,6 @@
-from GreenminalEngine.Game import Game
+from Game import Game
 import logging
-from GreenminalEngine.GameLoopController import UNLIMITED_FPS
+from GameLoopController import UNLIMITED_FPS
 
 if __name__ == "__main__":
     #logging.basicConfig(filename="log.txt",level=logging.DEBUG)
